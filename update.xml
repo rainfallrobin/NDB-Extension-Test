@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <gupdate xmlns="http://www.google.com/update2/response" protocol="2.0">
-  <app appid="pmcibabhbflegdgcjkjglpnkdifklfhp">
+  <app appid="oahejcmkonhkilnllobbbgjokannmjkm">
     <updatecheck
       codebase="https://rainfallrobin.github.io/NDB-Extension-Test/NDB-URL-Block-Notification-v1.4.crx"
       version="1.4" />
